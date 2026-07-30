@@ -50,3 +50,19 @@ This project presents a prototype for non-invasive estimation of blood glucose l
 - Mobile application
 - Improved sensor calibration
 - Compact PCB design
+- ## Repository Structure
+
+```
+code/
+ ├── glucometer.ino
+ ├── pulse_oximeter.ino
+ └── combined_system.ino
+
+docs/
+images/
+circuit/
+```
+
+## Disclaimer
+
+This repository contains an academic prototype developed for educational and research purposes. It is not intended for clinical or diagnostic use.
